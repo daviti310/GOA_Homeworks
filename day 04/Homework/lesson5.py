@@ -159,6 +159,27 @@ forward(90)
 end_fill()
 
 penup()
+color("black")
+left(90)
+forward(150)
+left(90)
+forward(70)
+pendown()
+
+
+color("black")
+begin_fill()
+right(90)
+right(90)
+forward(50)
+right(90)
+forward(20)
+right(90)
+forward(50)
+right(90)
+forward(20)
+end_fill()
+
 
 
 
