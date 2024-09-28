@@ -3,8 +3,7 @@ from turtle import *
 
 # ჩვენ ავაგებთ კოშკს სადაც აფრიალდება გოას დროშა
 width(7)
-speed(10)
-shape("turtle")
+
 begin_fill()
 color("brown")
 forward(220)
@@ -68,7 +67,6 @@ forward(50)
 
 
 color("green")
-begin_fill()
 left(90)
 forward(70)
 
@@ -78,17 +76,58 @@ right(90)
 forward(70)
 right(90)
 forward(40)
-
-
-
-
-
-
-
-
-end_fill()
-
-
+right(90)
+forward(5)
+color("black")
+right(70)
+forward(30)
+left(140)
+forward(30)
+left(180)
+forward(14)
+right(70)
+forward(10) 
+left(15)
+penup()
+right(100)
+forward(16)
+right(110)
+forward(20)
+pendown()
+right(75)
+forward(30)
+left(90)
+forward(15)
+left(90)
+forward(30)
+left(90)
+forward(15)
+penup()
+left(90)
+forward(30)
+left(90)
+forward(15)
+left(90)
+forward(30)
+right(90)
+forward(10)
+pendown()
+forward(10)
+right(90)
+forward(30)
+right(90)
+forward(10)
+right(90)
+forward(10)
+penup()
+forward(30)
+right(90)
+right(90)
+forward(10)
+pendown()
+forward(10)
+left(90)
+forward(3)
 
 
 
