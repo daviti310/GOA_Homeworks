@@ -3,7 +3,7 @@ from turtle import *
 
 # ჩვენ ავაგებთ კოშკს სადაც აფრიალდება გოას დროშა
 width(7)
-
+shape("turtle")
 begin_fill()
 color("brown")
 forward(220)
