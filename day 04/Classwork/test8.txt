@@ -51,3 +51,25 @@ user - მომხმარებელი
 run - გაშვება
 
 
+hash symbol - დიეზი # 
+underscore - ქვედატირე _
+Displaying - გამოტანა, ერკანზე გამოსახულების გამოტანა
+Declaring - შექმნა, გამოცხადება
+good practice - კარგი პრაქტიკა
+comments - კომენტარი
+instruction - დავალება
+case-sensitve - ქეისისადმი (დიდი-პატარა ასოების) მგრძნობიარე
+uppercase - დიდი ასოები
+lowercase - პატარა ასოები
+
+
+
+Header - სათაური
+Search engine - საძიებო ძრავა
+Request - მოთხოვნა
+Level - დონე
+Important - მნიშვნელოვანი
+Attribute - ატრიბუტი, გვაწდვის დამეტებით ინფრომაციას საგნის შესახებ
+Source - წყარო
+Empty - ცარიელი
+
